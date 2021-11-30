@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.logo-bar img{
+    height: 35px;
+}
+
+.logo-bar h3{
+    margin-left: 10px;
+}
+
+.navbar-custom{
+    list-style: none;
+    font-size: large;
+    display: flex;
+}
+
+.navbar-custom li{
+    padding-left:10px;
+    padding-right:10px;
+}
