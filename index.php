@@ -76,7 +76,7 @@ $pageList = [
 <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="css/styles.css">
   <!-- Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
@@ -101,11 +101,11 @@ $pageList = [
             <div class="container-fluid">
                 <div class="row">
                     <ul class="navbar-custom">
-                    <li>Introduzione</li>
-                    <li>Norme sulla privacy</li>
-                    <li>Termini di servizio</li>
-                    <li>Tecnologie</li>
-                    <li>Domande frequenti</li>
+                    <li><a href="">Introduzione</a></li>
+                    <li><a href="">Norme sulla privacy</a></li>
+                    <li><a href="">Termini di servizio</a></li>
+                    <li><a href="tecnologie.php">Tecnologie</a></li>
+                    <li><a href="index.php">Domande frequenti</a></li>
                     </ul>
                 </div>
                
